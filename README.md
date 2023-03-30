@@ -1,4 +1,5 @@
 JsonUnit [![Apache License 2](https://img.shields.io/badge/license-ASF2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt) [![Build Status](https://travis-ci.org/lukas-krecan/JsonUnit.png?branch=master)](https://travis-ci.org/lukas-krecan/JsonUnit) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.javacrumbs.json-unit/json-unit/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.javacrumbs.json-unit/json-unit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYayayya-boop%2FJsonUnit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYayayya-boop%2FJsonUnit?ref=badge_shield)
 ========
 
 JsonUnit is a library that simplifies JSON comparison in tests.
@@ -1111,3 +1112,7 @@ Please do not hesitate to report issues.
 ## 0.0.2
 * Support for nulls
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYayayya-boop%2FJsonUnit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYayayya-boop%2FJsonUnit?ref=badge_large)
